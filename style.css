@@ -1,0 +1,16 @@
+.container-fluid{
+    background-color:black;
+    color: white;
+    position: sticky;
+    position: inherit;
+    padding: 20px;
+}
+.footer{
+    background-color:blue;
+    color:white;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    padding: 20px;
+
+}
